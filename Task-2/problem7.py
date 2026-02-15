@@ -1,4 +1,3 @@
-# r"C:\Users\nehal\Downloads\simple_text.txt"
 file = open("simple_text.txt")
 content = file.read()
 words = content.split()
